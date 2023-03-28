@@ -238,7 +238,7 @@ function PromptBuilder({ buttonData, buttonDataEN }) {
 
             <div className="generated-text-container">
                 <Typography variant="h5" gutterBottom>
-                    Generated Text:
+                    Chat:
                 </Typography>
                 <Typography>
                     <pre style={{ whiteSpace: "pre-wrap", wordWrap: "break-word", maxWidth: "800px" }}>
