@@ -73,7 +73,7 @@ function PromptBuilder({ buttonData, buttonDataEN }) {
             .join("\n");
 
         try {
-            const response = await fetch("http://localhost:3001/api/generate-text", {
+            const response = await fetch("https://gpt-server-xszh.onrender.com", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
