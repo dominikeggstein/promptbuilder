@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/promptbuilderbyarqi/static/css/main.12ed32b3.css",
-    "main.js": "/promptbuilderbyarqi/static/js/main.aacf9d5d.js",
-    "index.html": "/promptbuilderbyarqi/index.html",
-    "main.12ed32b3.css.map": "/promptbuilderbyarqi/static/css/main.12ed32b3.css.map",
-    "main.aacf9d5d.js.map": "/promptbuilderbyarqi/static/js/main.aacf9d5d.js.map"
+    "main.css": "/promptbuilder/static/css/main.12ed32b3.css",
+    "main.js": "/promptbuilder/static/js/main.aacf9d5d.js",
+    "index.html": "/promptbuilder/index.html",
+    "main.12ed32b3.css.map": "/promptbuilder/static/css/main.12ed32b3.css.map",
+    "main.aacf9d5d.js.map": "/promptbuilder/static/js/main.aacf9d5d.js.map"
   },
   "entrypoints": [
     "static/css/main.12ed32b3.css",
