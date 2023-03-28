@@ -73,7 +73,7 @@ function PromptBuilder({ buttonData, buttonDataEN }) {
             .join("\n");
 
         try {
-            const response = await fetch("https://gpt-server-xszh.onrender.com", {
+            const response = await fetch("//https://gpt-server-xszh.onrender.com", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
@@ -238,7 +238,7 @@ function PromptBuilder({ buttonData, buttonDataEN }) {
 
             <div className="generated-text-container">
                 <Typography variant="h5" gutterBottom>
-                    Chat:
+                    Chat
                 </Typography>
                 <Typography>
                     <pre style={{ whiteSpace: "pre-wrap", wordWrap: "break-word", maxWidth: "800px" }}>

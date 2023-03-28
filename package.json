@@ -1,6 +1,6 @@
 {
   "name": "prompt-builder",
-  "homepage": "https://dominikeggstein.github.io/promptbuilderbyarqi/",
+  "homepage": "https://dominikeggstein.github.io/promptbuilder/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
