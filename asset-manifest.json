@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/promptbuilder/static/css/main.59f351ce.css",
-    "main.js": "/promptbuilder/static/js/main.d659268b.js",
+    "main.css": "/promptbuilder/static/css/main.0bfd157f.css",
+    "main.js": "/promptbuilder/static/js/main.b1c090f0.js",
     "index.html": "/promptbuilder/index.html",
-    "main.59f351ce.css.map": "/promptbuilder/static/css/main.59f351ce.css.map",
-    "main.d659268b.js.map": "/promptbuilder/static/js/main.d659268b.js.map"
+    "main.0bfd157f.css.map": "/promptbuilder/static/css/main.0bfd157f.css.map",
+    "main.b1c090f0.js.map": "/promptbuilder/static/js/main.b1c090f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.59f351ce.css",
-    "static/js/main.d659268b.js"
+    "static/css/main.0bfd157f.css",
+    "static/js/main.b1c090f0.js"
   ]
 }
